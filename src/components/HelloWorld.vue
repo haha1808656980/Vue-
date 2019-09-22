@@ -85,6 +85,7 @@ export default {
         clearInterval(this.timer)
       }
       this.active = 1
+      this.isStart = false
     }
   }
 }
