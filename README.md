@@ -1,6 +1,6 @@
 # nine-box
 
-> nine box game
+> 这是vue实现的一个九宫格游戏，非常简单
 
 ## Build Setup
 
